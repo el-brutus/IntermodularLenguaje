@@ -1,0 +1,24 @@
+[
+  {
+    "id_recurso": 1,
+    "id_reserva_local": 1,
+    "recurso_nombre": "Estudio de Podcast",
+    "fecha": "2026-03-20",
+    "hora_inicio": "10:00:00",
+    "hora_fin": "11:30:00",
+    "coste": 45.00,
+    "numero_plazas": 2,
+    "motivo": "Grabación Episodio 1"
+  },
+  {
+    "id_recurso": 2,
+    "id_reserva_local": 1,
+    "recurso_nombre": "Sala Creativa",
+    "fecha": "2026-03-22",
+    "hora_inicio": "17:00:00",
+    "hora_fin": "18:30:00",
+    "coste": 20.00,
+    "numero_plazas": 5,
+    "motivo": "Brainstorming App"
+  }
+]
